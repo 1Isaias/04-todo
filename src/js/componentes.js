@@ -118,7 +118,3 @@ ultFiltros.addEventListener('click', (event) => {
    }
 
 });
-
-
-
-
